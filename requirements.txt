@@ -6,5 +6,5 @@ motor
 python-jose
 python-multipart
 passlib[bcrypt]
-bcrypt
+bcrypt==3.2.0
 email-validator
